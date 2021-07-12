@@ -1,1 +1,1 @@
-# FairyOS-local
+# AMOS-local
